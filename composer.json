@@ -1,0 +1,18 @@
+{
+    "name": "mint/s12-evaluation-back-oquiz-axelle83",
+    "authors": [
+        {
+            "name": "axelle83",
+            "email": "axelle.lecroq@yahoo.fr"
+        }
+    ],
+    "require": {
+        "altorouter/altorouter": "^1.2",
+        "league/plates": "^3.3"
+    },
+    "autoload": {
+      "psr-4": {
+        "Oquiz\\": "src/"
+      }
+    }
+}
